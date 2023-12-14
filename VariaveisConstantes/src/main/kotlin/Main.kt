@@ -5,5 +5,4 @@ fun main(args: Array<String>) {
     val peso:Float = 50.25f
 
     print("Olá " + nome + " você tem " + idade + " anos " +  "e pesa " + peso + "Kg namorando " + namoro)
-
 }
