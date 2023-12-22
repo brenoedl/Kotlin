@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d18f15d-003a-42ed-9065-d95f75d20364" name="Changes" comment="" />
+    <list default="true" id="90c70c37-b0bf-4416-a200-3cf917b2cff7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2ZtuIRt6QFrDZ8HInESe9nphj5g" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2Zu096qZHLNjyqoruvdzmlm9uTe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,25 +23,17 @@
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-15.0.10-azul-15.0.10-249ae16d76d6-351b54be" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d18f15d-003a-42ed-9065-d95f75d20364" name="Changes" comment="" />
-      <created>1703253622828</created>
+      <changelist id="90c70c37-b0bf-4416-a200-3cf917b2cff7" name="Changes" comment="" />
+      <created>1703256513108</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1703253622828</updated>
+      <updated>1703256513108</updated>
     </task>
     <servers />
   </component>
