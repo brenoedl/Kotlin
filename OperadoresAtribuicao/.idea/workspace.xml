@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c275869-b0c7-4b31-bc0e-11fc48dc3527" name="Changes" comment="" />
+    <list default="true" id="3e3ad8e4-6669-40ab-aec8-04c64e3d25b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="2ZrYkAv60MCj8VjhIRTDnZVpyLz" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ZsR9xF6bfvrQSmVhp52J0TaP3p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,21 +26,14 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-15.0.10-azul-15.0.10-249ae16d76d6-351b54be" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c275869-b0c7-4b31-bc0e-11fc48dc3527" name="Changes" comment="" />
-      <created>1703181809438</created>
+      <changelist id="3e3ad8e4-6669-40ab-aec8-04c64e3d25b0" name="Changes" comment="" />
+      <created>1703208654951</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1703181809438</updated>
+      <updated>1703208654951</updated>
     </task>
     <servers />
   </component>
