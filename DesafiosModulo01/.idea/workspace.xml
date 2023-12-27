@@ -31,8 +31,11 @@
     "Kotlin.Des002Kt.executor": "Run",
     "Kotlin.Des003Kt.executor": "Run",
     "Kotlin.Des004Kt.executor": "Run",
+    "Kotlin.Des005Kt.executor": "Run",
+    "Kotlin.Des006Kt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
