@@ -4,8 +4,10 @@ fun main() {
     println("""${VERMELHO}----------------------------------
         BANCO ESTUDONAUTA
 ----------------------------------${RECET}""")
+
     print("Que valor você quer sacar? R$")
     val valor:Int = readln().toInt()
+
     val n200:Int = valor / 200
     val r200:Int = valor % 200
     val n100:Int =  r200 / 100
@@ -20,6 +22,7 @@ fun main() {
     val r5:Int = r10 % 5
     val n2:Int = r5 / 2
     val m1:Int = r5 % 2
+
     print("""${AMALERO}------------RESULTADO-------------
 Notas 200:          $n200
 Notas 100:          $n100
